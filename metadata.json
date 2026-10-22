@@ -1,0 +1,6 @@
+{
+  "name": "AsisQR UCV - Sistema de Asistencia Académica",
+  "description": "Sistema institucional de control de asistencia académica por carreras, cursos, unidades y semanas mediante código QR dinámico para la Universidad César Vallejo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
